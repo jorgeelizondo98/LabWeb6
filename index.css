@@ -1,0 +1,27 @@
+.checked {
+    text-decoration: line-through;
+}
+
+.container {
+    margin: 5%;
+}
+
+.item-container {
+    border: black 1px solid;
+    padding: 16px;
+    margin: 2% 10% 0% 10%;
+}
+
+#delete-button {
+    margin: 8px;
+    color: red;
+}
+
+#check-button {
+    margin: 8px;
+    color: green;
+}
+
+.h3{
+    font-size: medium;
+}
